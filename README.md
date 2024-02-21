@@ -8,9 +8,9 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/Mr-Krishna-90/Cam-Hacks
+* git clone https://github.com/Mr-Krishna-90/Cam-Hack.git
 
-* cd Cam-Hacks
+* cd Cam-Hack
 
 * pip install -r requirements.txt
 
