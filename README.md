@@ -4,17 +4,13 @@ Hack Cameras
 
 <h3> Run Command: </h3>
 
-* apt-get install python3
 
-* apt-get install git
-
-* git clone https://github.com/Mr-Krishna-90/Cam-Hack.git
-
-* cd Cam-Hack
-
-* pip install -r requirements.txt
-
-* python3 cam-hacks.py 
+- $ `apt update && apt upgrade`
+- $ `pkg install python3`
+- $ `pkg install git`
+- $ `git clone https://github.com/Mr-Krishna-90/Cam-Hack.git`
+- $ `cd Cam-Hack`
+- $ `python3 cam-hacks.py` 
 
 ### If there is an issue in this tool, report [here](https://github.com/Mr_Krishna_909
 /I_Picker/issues)
